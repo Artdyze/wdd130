@@ -1,17 +1,6 @@
-@font-face {
-    font-family: 'Anton SC';
-    src: url('fonts/AntonSC-Regular.ttf') format('truetype');
-  }
-  
-  @font-face {
-    font-family: 'Roboto';
-    src: url('Roboto-Regular.ttf') format('truetype');
-  }
-  
-  @font-face {
-    font-family: 'Work Sans';
-    src: url('WorkSans-VariableFont_wght.ttf') format('truetype');
-  }
+@import url('fonts/AntonSC-Regular.ttf');
+@import url('Roboto-Regular.ttf');
+@import url('WorkSans-VariableFont_wght.ttf');
 
 :root {
     --primary-color: #0B4F6C;
