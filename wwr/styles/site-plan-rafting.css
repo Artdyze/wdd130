@@ -1,6 +1,17 @@
-@import url('https://fonts.google.com/specimen/Anton+SC?stroke=Sans+Serif');
-@import url('https://fonts.google.com/specimen/Roboto?stroke=Sans+Serif');
-@import url('https://fonts.google.com/specimen/Work+Sans?stroke=Sans+Serif');
+@font-face {
+    font-family: 'Anton SC';
+    src: url('fonts/AntonSC-Regular.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Work Sans';
+    src: url('WorkSans-VariableFont_wght.ttf') format('truetype');
+  }
 
 :root {
     --primary-color: #0B4F6C;
