@@ -91,8 +91,8 @@
             }
 
             footer img {
-                position: relativee; 
-                bottom: 10px;
+                position: relative; 
+                bottom: 0px;
                 width: 65px; 
                 height: auto; 
                 margin: 0 10px; 
