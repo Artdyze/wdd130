@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
 nav {
     background-color: steelblue;
     padding: 10px;
@@ -58,3 +64,22 @@ nav a  {
             text-align: center;
         }
 
+/* Class Selectors */
+
+.box {
+    margin: 1rem;
+    border: 1px solid rgba(173, 216, 230, 0.5);
+    padding: 1rem;
+    background-color: #b0e0e6;
+    color: #000080;
+    }
+
+    main img {
+        float: right;
+        }
+
+        aside h2 {
+            position: relative;
+            top: 50;
+            left: 155;
+            }
