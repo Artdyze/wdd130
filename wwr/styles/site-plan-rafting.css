@@ -15,7 +15,7 @@
   @font-face {
     font-family: 'Work Sans';
     src: url('fonts/WorkSans-VariableFont_wght.ttf') format('truetype');
-    font-weight: normal; /* Specify font weight if needed */
+    font-weight: normal; 
   }
   
 

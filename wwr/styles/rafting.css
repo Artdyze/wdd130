@@ -15,7 +15,7 @@
 @font-face {
   font-family: 'Work Sans';
   src: url('fonts/WorkSans-VariableFont_wght.ttf') format('truetype');
-  font-weight: normal; /* Specify font weight if needed */
+  font-weight: normal; 
 }
 
 :root {
@@ -133,4 +133,9 @@ figcaption {
   font-style: italic;
   color: #666666;
   margin-top: 10px;
+}
+
+.contact-image img {
+    width: 80px;
+    height: auto; 
 }
